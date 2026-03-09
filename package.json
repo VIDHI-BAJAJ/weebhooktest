@@ -1,0 +1,12 @@
+{
+  "name": "webhook-server",
+  "version": "1.0.0",
+  "description": "Webhook server",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
